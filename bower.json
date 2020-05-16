@@ -1,0 +1,22 @@
+{
+  "name": "lyfe-Hacker",
+  "homepage": "https://github.com/sujaykundu777/devlopr-jekyll",
+  "authors": [
+    "tks18 <tksudharshan@gmail.com>"
+  ],
+  "description": "Personal Portfolio of Shan-tk",
+  "main": "",
+  "keywords": [
+    "portfolio",
+    "jekyll",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
