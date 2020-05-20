@@ -3,7 +3,7 @@ subtitle: Personal Portfolio of Shan-tk
 description: >- # this means to ignore newlines until "baseurl:"
   Fix hard-coded [object Object] string (thanks!)4
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://shan.infozy.tk" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
