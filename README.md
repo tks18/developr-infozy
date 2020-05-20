@@ -1,5 +1,6 @@
 ### lyfeHacker - A Beautiful Author Website for Infozy's Authors
 
+[![Travis CI](https://travis-ci.com/tks18/developr-infozy.svg?branch=develop)](https://shan.infozy.tk)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ### [Installation Guide](https://devlopr.netlify.app/get-started)
